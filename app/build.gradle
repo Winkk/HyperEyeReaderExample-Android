@@ -5,7 +5,7 @@ android {
     buildToolsVersion '27.0.3'
 
     defaultConfig {
-        applicationId "com.square_nest.HyperEyeReader"
+        applicationId "com.winkk.HyperEyeReader"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1

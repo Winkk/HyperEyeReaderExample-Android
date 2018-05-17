@@ -1,11 +1,10 @@
-package com.square_nest.HyperEyeReader;
+package com.winkk.HyperEyeReader;
 
 import android.content.Context;
 import android.content.Intent;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -16,7 +15,7 @@ import android.widget.TextView;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 
-import com.square_nest.hypereyedecodelib.HyperEyeDecoder;
+import com.winkk.hypereyedecodelib.HyperEyeDecoder;
 
 import io.fotoapparat.Fotoapparat;
 import io.fotoapparat.parameter.ScaleType;
